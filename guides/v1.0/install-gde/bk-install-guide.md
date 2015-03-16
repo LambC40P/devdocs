@@ -18,6 +18,7 @@ If you're not sure about the following, you probably need a little help before y
 *	What's <a href="{{ site.gdeurl }}install-gde/basics/basics_software.html">PHP</a>?
 *	What's <a href="{{ site.gdeurl }}install-gde/basics/basics_software.html">Apache</a>?
 *	What's <a href="{{ site.gdeurl }}install-gde/basics/basics_software.html">MySQL</a>?
+*	Who am I?
 
 <h2>Step 1: Verify your prerequisites</h2>
 
